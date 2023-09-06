@@ -55,6 +55,28 @@ This will load the data from the `data/templeRing` directory, visualize camera p
 - `two_view`: Full pipeline for computing the point cloud from two views.
 - `main`: Main function to run the pipeline.
 
+
+## Results
+
+The following images showcase the depth estimation results obtained using this implementation. The depth maps and point clouds are generated from the stereo images provided in the `data/templeRing` directory.
+
+### 3D Reconstruction using SAD Kernel 
+
+![Left Image](D:\Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques\SAD_kernel.png)
+
+### 3D Reconstruction using SSD Kernel 
+
+![Right Image](D:\Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques\SSD_kernel.png)
+
+### 3D Reconstruction using ZNCC Kernel 
+
+![Depth Map](D:\Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques\ZNCC_Kernel.png)
+
+### 3D Point Cloud
+
+![3D Point Cloud](D:\Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques\multiview_stereo3dreconstruction.png)
+
+
 ## Acknowledgements
 
 This code is based on techniques from stereo vision and 3D reconstruction literature. Special thanks to the Middlebury dataset for providing sample data.
