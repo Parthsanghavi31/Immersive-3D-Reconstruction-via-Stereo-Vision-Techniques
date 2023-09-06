@@ -58,7 +58,9 @@ This will load the data from the `data/templeRing` directory, visualize camera p
 
 ## Results
 
-The following images showcase the depth estimation results obtained using this implementation. The depth maps and point clouds are generated from the stereo images provided in the `data/templeRing` directory.
+In this section, we showcase the results of 3D reconstruction from 2 views using SAD, SSD, and ZNCC kernels. Additionally, we present the final 3D point cloud obtained by combining multiple two views.
+ 
+The depth maps and point clouds are generated from the stereo images provided in the `data/templeRing` directory.
 
 ### 3D Reconstruction using SAD Kernel 
 
