@@ -31,14 +31,13 @@ The code performs stereo rectification, disparity map computation, and depth est
 ## Usage
 
 1. Clone the repository:
-    git clone https://github.com/Parthsanghavi31/Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques.git
-    cd Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques
-
+    - git clone https://github.com/Parthsanghavi31/Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques.git
+    - cd Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques
 
 2. Ensure you have all the required dependencies installed.
 
 3. Run the main script:
-    python <script-name>.py
+    - python two_view_stereo.py
 
 This will load the data from the `data/templeRing` directory, visualize camera poses, and compute the depth map and point cloud for the first and fourth views using the ZNCC kernel.
 
