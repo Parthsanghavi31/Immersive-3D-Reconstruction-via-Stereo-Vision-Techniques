@@ -31,8 +31,8 @@ The code performs stereo rectification, disparity map computation, and depth est
 ## Usage
 
 1. Clone the repository:
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Parthsanghavi31/Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques.git
+    cd Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques
 
 
 2. Ensure you have all the required dependencies installed.
