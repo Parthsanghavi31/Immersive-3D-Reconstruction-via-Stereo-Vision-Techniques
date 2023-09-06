@@ -62,15 +62,15 @@ The following images showcase the depth estimation results obtained using this i
 
 ### 3D Reconstruction using SAD Kernel 
 
-![Left Image](D:\Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques\SAD_kernel.png)
+![SAD Kernel](D:\Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques\SAD_kernel.png)
 
 ### 3D Reconstruction using SSD Kernel 
 
-![Right Image](D:\Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques\SSD_kernel.png)
+![SSD Kernel](D:\Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques\SSD_kernel.png)
 
 ### 3D Reconstruction using ZNCC Kernel 
 
-![Depth Map](D:\Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques\ZNCC_Kernel.png)
+![ZNCC kernel](https://github.com/Parthsanghavi31/Immersive-3D-Reconstruction-via-Stereo-Vision-Techniques/blob/main/ZNCC_Kernel.png)
 
 ### 3D Point Cloud
 
